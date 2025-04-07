@@ -14,9 +14,7 @@ function Header({
   return (
     <header style={headerStyles}>
       <div className='container'>
-       
           <h2>{title}</h2>
-      
       </div>
     </header>
   )
